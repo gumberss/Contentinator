@@ -1,7 +1,7 @@
 ## Probabilistic data structure
 
 ### Membership
-[Bloom Filters](https://www.youtube.com/watch?v=V3pzxngeLqw) 
+[Bloom Filters](https://www.youtube.com/watch?v=V3pzxngeLqw) - [Another Link](https://www.youtube.com/watch?v=gBygn3cVP80)
 
 Cuckoo Filters
 
