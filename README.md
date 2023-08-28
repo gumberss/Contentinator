@@ -1,3 +1,1 @@
-# ArchitectureConcepts
-Some architecture concepts
-Use [Obsidian](https://obsidian.md) to navigate
+Some interesting content that I probably will try to find the reference in the future
