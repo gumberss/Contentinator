@@ -4,4 +4,6 @@
 
 [Single-Table Design with DynamoDB - Alex DeBrie, AWS Data Hero](https://www.youtube.com/watch?v=BnDKD_Zv0og)
 
+[DynamoDB Indexes: Making the right choice between GSI and LSI](https://www.youtube.com/watch?v=BkEu7zBWge8)
+
 https://www.dynamodbguide.com/what-is-dynamo-db
